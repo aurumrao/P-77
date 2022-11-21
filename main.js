@@ -1,0 +1,14 @@
+var one = ("Hello");
+var two =  ("World");
+var onetwo = one.concat(two);
+console.log(onetwo);
+var a = ("62");
+var b = ("37");
+var add = a + b;
+var subtract = a - b;
+var multiply = a * b;
+var divide = a / b;
+console.log(add);
+console.log(subtract);
+console.log(multiply);
+console.log(divide);
